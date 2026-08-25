@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'portfolio'
+theme = 'blowfish'
+
+[params]
+colorScheme = "noir"
